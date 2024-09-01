@@ -12,7 +12,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="llmchain",  # 包名称
+    name="llm_client",  # 包名称
     version="0.1.0",  # 版本号
     author="tyrone",  # 作者名称
     author_email="tyronextian@gmail.com",  # 作者邮箱
